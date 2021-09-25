@@ -4,7 +4,8 @@
 
 # ###########################################
 #
-# Command: wget https://github.com/tarekzoka/3plugin/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/tarekzoka/3plugin/main/installer.sh -O - | /bin/sh #
+
 #
 # ###########################################**
 
